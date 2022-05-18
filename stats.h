@@ -1,9 +1,6 @@
 #ifndef STATS_H
 #define STATS_H
 
-#pragma GCC system_header
-// #include "real_3rd_party_header.h"
-
 #include <algorithm>
 #include <cmath>
 #include <numeric>
